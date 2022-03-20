@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/Miguelidze/goit-react-hw-03-image-finder.git/static/css/main.ed1e3a3d.css",
-    "main.js": "/Miguelidze/goit-react-hw-03-image-finder.git/static/js/main.f6154ec5.js",
-    "static/js/787.9aaccccd.chunk.js": "/Miguelidze/goit-react-hw-03-image-finder.git/static/js/787.9aaccccd.chunk.js",
-    "index.html": "/Miguelidze/goit-react-hw-03-image-finder.git/index.html",
-    "main.ed1e3a3d.css.map": "/Miguelidze/goit-react-hw-03-image-finder.git/static/css/main.ed1e3a3d.css.map",
-    "main.f6154ec5.js.map": "/Miguelidze/goit-react-hw-03-image-finder.git/static/js/main.f6154ec5.js.map",
-    "787.9aaccccd.chunk.js.map": "/Miguelidze/goit-react-hw-03-image-finder.git/static/js/787.9aaccccd.chunk.js.map"
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.ed1e3a3d.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.b42da626.js",
+    "index.html": "/goit-react-hw-03-image-finder/index.html",
+    "main.ed1e3a3d.css.map": "/goit-react-hw-03-image-finder/static/css/main.ed1e3a3d.css.map",
+    "main.b42da626.js.map": "/goit-react-hw-03-image-finder/static/js/main.b42da626.js.map"
   },
   "entrypoints": [
     "static/css/main.ed1e3a3d.css",
-    "static/js/main.f6154ec5.js"
+    "static/js/main.b42da626.js"
   ]
 }
