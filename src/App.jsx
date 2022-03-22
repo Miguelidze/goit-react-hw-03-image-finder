@@ -1,6 +1,6 @@
-import "./App.css";
 import { Component } from "react";
-
+import "./App.css"
+import { TailSpin } from 'react-loader-spinner'
 import Searchbar from "./components/Searchbar/Searchbar";
 import Button from "./components/Button/Button";
 import ImageGallery from "./components/ImageGallery/ImageGallery";
@@ -8,6 +8,12 @@ import Modal from "./components/Modal/Modal";
 import fetchImages from "./services/api";
 
 
+<TailSpin
+  height="100"
+  width="100"
+  color='grey'
+  ariaLabel='loading'
+/>
 class App extends Component {
   state = {
     query: "",
@@ -51,7 +57,7 @@ class App extends Component {
       handleTogleModal,
       handleLoadMore,
     } = this;
-    return (<div>
+    return (<div className="finder">
       <Searchbar
         query={query}
         handleSetQuery={handleSetQuery}
